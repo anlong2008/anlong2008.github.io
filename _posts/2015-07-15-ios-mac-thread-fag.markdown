@@ -9,14 +9,13 @@ tags: [iOS]
 
 ### NSThread  
   NSThread提供了两种方法创建线程：  
-  1.  调用NSThread的start消息，如；  
+  1. 调用NSThread的start消息，如；  
+  `NSThread *thread = [[NSThread alloc] initWithTarget:self selector:@selector(threadPro:) object:nil];`   
+  `[thread start];`  
 
-    `NSThread *thread = [[NSThread alloc] initWithTarget:self selector:@selector(threadPro:) object:nil];`  
-    `[thread start];`  
-
-  2.  直接用NSThread类方法 + (void)detachNewThreadSelector:(SEL)selector toTarget:(id)target withObject:(id)argument; 创建并启动线程，如；
+  2. 直接用NSThread类方法 + (void)detachNewThreadSelector:(SEL)selector toTarget:(id)target withObject:(id)argument; 创建并启动线程，如；
     
-    `[NSThread detachNewThreadSelector:@selector(threadPro:) toTarget:self withObject:nil];`   
+  `[NSThread detachNewThreadSelector:@selector(threadPro:) toTarget:self withObject:nil];`   
 
 ### NSObject   
   NSObject提供了诸如performSelector***的方法来创建子线程。     `   
