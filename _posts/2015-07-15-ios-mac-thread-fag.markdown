@@ -16,7 +16,7 @@ tags: [iOS]
 `[NSThread detachNewThreadSelector:@selector(threadPro:) toTarget:self withObject:nil];`   
 
 ### NSObject
-  NSObject提供了诸如performSelector***的方法来创建子线程。
+  NSObject提供了诸如performSelector***的方法来创建子线程。   
     `- (void)performSelectorOnMainThread:(SEL)aSelector withObject:(id)arg waitUntilDone:(BOOL)wait modes:(NSArray *)array;`   
   `- (void)performSelectorOnMainThread:(SEL)aSelector withObject:(id)arg waitUntilDone:(BOOL)wait;`   
   `- (void)performSelector:(SEL)aSelector onThread:(NSThread *)thr withObject:(id)arg waitUntilDone:(BOOL)wait modes:(NSArray *)array NS_AVAILABLE(10_5, 2_0);`   
