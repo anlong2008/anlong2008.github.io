@@ -14,7 +14,8 @@ NSThread提供了两种方法创建线程：
 `NSThread *thread = [[NSThread alloc] initWithTarget:self selector:@selector(threadPro:) object:nil];`  
 `[thread start];`  
 *   直接用NSThread类方法 + (void)detachNewThreadSelector:(SEL)selector toTarget:(id)target withObject:(id)argument; 创建并启动线程，如；  
-`[NSThread detachNewThreadSelector:@selector(threadPro:) toTarget:self withObject:nil];`
+`[NSThread detachNewThreadSelector:@selector(threadPro:) toTarget:self withObject:nil];`  
+
 ### NSObject
 ### POSIX Thread
 ### NSOperation 和 NSOperationQueue
