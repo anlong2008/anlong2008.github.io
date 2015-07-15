@@ -2,7 +2,7 @@
 ================
 
 ####博客地址
-http://www.panxw.com  
+http://anlong2008.github.io
 
 ####使用本项目作为博客模板，仅需如下几步：
 1,首先Fork或Download一份本项目代码。  
@@ -21,15 +21,3 @@ http://www.panxw.com
 如需查看或管理网站统计、评论或广告，请自行注册帐号并修改_includes目录下相关文件。  
 
 ####联系方式
-联系方式：qq(85902258), email(winfirm#163.com)  
-腾讯微博：http://t.qq.com/allthelucky  
-
-####使用本项目作模板的博客链接
-http://www.94geek.com  
-http://www.haidaoxiaofei.me  
-http://www.malphi.net  
-http://happyaround.com  
-http://tencentlocation.github.io  
-http://wtaps.github.io  
-http://www.youngben.net  
-(你的位置)  
