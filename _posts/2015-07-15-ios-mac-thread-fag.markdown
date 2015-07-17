@@ -5,16 +5,17 @@ title:  "iOS/Mac OS X系统下的并发"
 tags: [iOS]
 ---
 
+   
 本文旨在总结iOS应用层创建线程的方法。
 
 ### NSThread  
   NSThread提供了两种方法创建线程：  
-  1. 调用NSThread的start消息，如:  
+  1.调用NSThread的start消息，如:  
   
         NSThread *thread = [[NSThread alloc] initWithTarget:self selector:@selector(threadPro:) object:nil];     
         [thread start];  
-
-  2. 直接用NSThread类方法 + (void)detachNewThreadSelector:(SEL)selector toTarget:(id)target withObject:(id)argument; 创建并启动线程，如:
+        
+2.直接用NSThread类方法 + (void)detachNewThreadSelector:(SEL)selector toTarget:(id)target withObject:(id)argument; 创建并启动线程，如:
   
         [NSThread detachNewThreadSelector:@selector(threadPro:) toTarget:self withObject:nil];    
 
