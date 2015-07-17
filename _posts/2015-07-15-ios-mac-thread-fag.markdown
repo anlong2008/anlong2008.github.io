@@ -15,7 +15,7 @@ tags: [iOS]
         [thread start];  
 
   2. 直接用NSThread类方法 + (void)detachNewThreadSelector:(SEL)selector toTarget:(id)target withObject:(id)argument; 创建并启动线程，如；
-    
+  
         [NSThread detachNewThreadSelector:@selector(threadPro:) toTarget:self withObject:nil];    
 
 ### NSObject   
