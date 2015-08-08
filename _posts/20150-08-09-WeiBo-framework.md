@@ -6,10 +6,11 @@ tags: [iOS]
 
 ---
 
-本文主要介绍我在微博社交类项目中用到的第三方库，仅供参考
+###简介
+本文主要介绍我在微博社交类项目中用到的第三方库，仅供参考.   
 不分先后顺序   
 
-<table>
+<table class="table table-bordered table-striped table-condensed">
         <tr>
             <td>framework</td>
             <td>简介</td>
@@ -52,5 +53,6 @@ tags: [iOS]
         </tr>
     </table>
 
-
+   
+###备注
 由于本人在在开发过程中，所以会持续更新。
