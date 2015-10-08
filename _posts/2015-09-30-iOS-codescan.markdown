@@ -15,4 +15,9 @@ tags: [iOS]
 
 Release version: 1.0.0
 
+测试条形码：   
+![objc runtime](../resources/cnaidc1.png)   
+![objc runtime](../resources/cnaidc2.png)   
+![objc runtime](../resources/cnaidc3.png)
+
 版权所有 违者必究
