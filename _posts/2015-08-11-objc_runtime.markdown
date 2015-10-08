@@ -1,8 +1,10 @@
 ---
+layout: post
+category: "iOS"
+title: "Objective-C Runtime基础"
+tags: [Objective-C]
 
-title:Objective-C Runtime基础知识
-
----
+---	
 
 本文主要梳理Objective-C的Runtime相关的结构      
 
