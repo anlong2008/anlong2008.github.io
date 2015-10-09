@@ -14,6 +14,9 @@ tags: [iOS]
 查询桥梁数据
 
 Release version: 1.0.0
+扫描二维码下载：   
+![objc runtime](../resources/2015-10-09-2315257602.png)
+
 
 测试条形码：   
 ![objc runtime](../resources/cnaidc1.png)   
