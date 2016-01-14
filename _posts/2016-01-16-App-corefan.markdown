@@ -33,11 +33,11 @@ CPU架构:armv7,arm64
 
 
 ###应用截图：   
-![首页](../resources/IMG_0217.jpg)
-![私信](../resources/IMG_0218.jpg)
-![发现](../resources/IMG_0219.jpg)
-![我](../resources/IMG_0220.jpg)
-![个人主页](../resources/IMG_0221.jpg)
+![首页](../resources/IMG_0217.PNG)
+![私信](../resources/IMG_0218.PNG)
+![发现](../resources/IMG_0219.PNG)
+![我](../resources/IMG_0220.PNG)
+![个人主页](../resources/IMG_0221.PNG)
 
 ###觉得好给评个分吧
   
