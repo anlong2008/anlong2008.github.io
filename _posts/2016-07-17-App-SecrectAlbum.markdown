@@ -20,7 +20,7 @@ tags: [App]
 
 ###觉得好给评个分吧   
 
-![去评分](https://itunes.apple.com/us/app/id1136674783)   
+![下载链接](https://itunes.apple.com/us/app/id1136674783)   
 
   
 ![二维码](../resources/1470186413.png)     
