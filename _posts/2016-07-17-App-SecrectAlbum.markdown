@@ -18,8 +18,8 @@ tags: [App]
 注意：
 卸载应用后，保存的照片不可恢复，请不要随意卸载！
 
-###觉得好给评个分吧
+###觉得好给评个分吧   
 
-去评分(https://itunes.apple.com/us/app/id1136674783) 
+[去评分](https://itunes.apple.com/us/app/id1136674783) 
   
 版权所有 违者必究
