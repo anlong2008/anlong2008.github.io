@@ -20,6 +20,9 @@ tags: [App]
 
 ###觉得好给评个分吧   
 
-[去评分](https://itunes.apple.com/us/app/id1136674783) 
+![去评分](https://itunes.apple.com/us/app/id1136674783)   
+
   
+![二维码](../resources/1470186413.png)     
+
 版权所有 违者必究
